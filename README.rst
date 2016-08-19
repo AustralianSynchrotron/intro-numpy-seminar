@@ -2,7 +2,10 @@ Intro to NumPy
 ==============
 
 .. image:: http://mybinder.org/badge.svg
-   :target: http://mybinder.org:/repo/australiansynchrotron/intro-numpy-seminar
+   :target: http://mybinder.org/repo/australiansynchrotron/intro-numpy-seminar
+   :alt: Run on Binder
+
+`Run this notebook online with Binder. <http://mybinder.org/repo/australiansynchrotron/intro-numpy-seminar>`_
 
 
 Installing with pip
